@@ -1,0 +1,7 @@
+c:\users\swapnil\source\repos\FactorySolid\FactorySolid\bin\Debug\FactorySolid.exe.config
+c:\users\swapnil\source\repos\FactorySolid\FactorySolid\bin\Debug\FactorySolid.exe
+c:\users\swapnil\source\repos\FactorySolid\FactorySolid\bin\Debug\FactorySolid.pdb
+c:\users\swapnil\source\repos\FactorySolid\FactorySolid\obj\Debug\FactorySolid.csprojResolveAssemblyReference.cache
+c:\users\swapnil\source\repos\FactorySolid\FactorySolid\obj\Debug\FactorySolid.csproj.CoreCompileInputs.cache
+c:\users\swapnil\source\repos\FactorySolid\FactorySolid\obj\Debug\FactorySolid.exe
+c:\users\swapnil\source\repos\FactorySolid\FactorySolid\obj\Debug\FactorySolid.pdb
