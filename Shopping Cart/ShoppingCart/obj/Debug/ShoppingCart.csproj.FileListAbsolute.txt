@@ -4,3 +4,4 @@ C:\Users\swapnil\source\repos\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.e
 C:\Users\swapnil\source\repos\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
 C:\Users\swapnil\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
 C:\Users\swapnil\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\swapnil\source\repos\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache

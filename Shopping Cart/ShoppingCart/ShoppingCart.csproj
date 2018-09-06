@@ -44,9 +44,10 @@
   <ItemGroup>
     <Compile Include="Allitems.cs" />
     <Compile Include="cartItems.cs" />
-    <Compile Include="items.cs" />
-    <Compile Include="payment.cs" />
-    <Compile Include="cart.cs" />
+    <Compile Include="Initializer.cs" />
+    <Compile Include="IOperations.cs" />
+    <Compile Include="itemDetails.cs" />
+    <Compile Include="cartOperations.cs" />
     <Compile Include="shoppingCart.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
